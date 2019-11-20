@@ -6,7 +6,7 @@ Embedded and Real Time Operating Systems Project
   <li> 8 LEDS </li>
   <li> PIR </li>
 </ul>
-Assumption: <br>
+<h3> Assumption: </h3>
 We used 2 LEDs for each road for a 4-crossroad junction. The following are the states of the LEDs which correspond to different colors in the traffic lights. The code has be wrriten according to this mapping:<br>
   Red LED On => Red Light <br>
   Red LED Off => Yellow Light <br>
