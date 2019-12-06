@@ -1,4 +1,4 @@
-# Smart-Toll-Booth-System
+# Smart-Traffic-Light-System
 Embedded and Real Time Operating Systems Project
 <h3> Hardware: </h3>
 <ul>
